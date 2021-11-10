@@ -1,4 +1,4 @@
-# Futurehome Mill Adapter
+# Futurehome Mill Adapter - archived, moved to https://github.com/futurehomeno/edge-mill-adapter
 
 Adapter connects with api and retrieves list of homes, rooms and devices connected to your mill user.
 
